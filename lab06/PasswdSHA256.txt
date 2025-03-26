@@ -1,0 +1,10 @@
+{'name': 'Kiss Attila', 'password': '9YmSAPvpvCBJ8wbJBfaNZemZPnEe5EBdAZmTVEdANkA='}
+{'name': 'Szabo Peter', 'password': '89gBxd9eeVMrCaXMeQAsvbXmmA+oeAmdcM1AY4LcGFs='}
+{'name': 'Nagy Istvan', 'password': 'Pfo1rzezlglcMWisbKw4KyeuACJzqMi/CwnK5ub883M='}
+{'name': 'Szekely Piroska', 'password': 'QqAOqpRosIrcgNnfuHem0ww+1k7qKT6UUihmnuPeTx4='}
+{'name': 'Laszlo Edit', 'password': '8XHLs13RFmog+Zta0iZVPhIvPA8v6YGRX7nkUXqskDg='}
+{'name': 'Jakab Kata', 'password': 'QqAOqpRosIrcgNnfuHem0ww+1k7qKT6UUihmnuPeTx4='}
+{'name': 'Molnar Levi', 'password': '8XHLs13RFmog+Zta0iZVPhIvPA8v6YGRX7nkUXqskDg='}
+{'name': 'Tarr Bela', 'password': 'Pfo1rzezlglcMWisbKw4KyeuACJzqMi/CwnK5ub883M='}
+{'name': 'Somody Lori', 'password': '89gBxd9eeVMrCaXMeQAsvbXmmA+oeAmdcM1AY4LcGFs='}
+{'name': 'Veress Feri', 'password': '8XHLs13RFmog+Zta0iZVPhIvPA8v6YGRX7nkUXqskDg='}
