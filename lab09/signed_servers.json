@@ -1,0 +1,102 @@
+[
+    {
+        "name": "szerver_Borika",
+        "publicKey": "3558de4a5f0f9389f71f96c3e57042a10d72ec104ac8fa41ceb1a04ccb626b94",
+        "signature": "Hq3mWzTmKpEC0OE5Dersa/4Y863p45JKtfNkb9PCtllASp55O2WUuwnOAHbARA2ajS3dOVVFPpwdesaO0NbYDg=="
+    },
+    {
+        "name": "szerver_Marika",
+        "publicKey": "89c1b03b81b91c0fc096eea1f8383efd7263dbe27ebe7aeb6c5975a5c05ad9a2",
+        "signature": "tV3GBju8m9rnzAeT4QPgQ6C0kNToqbjGDZ1b1KDMLppSzByUkCYhr+z9AJh5chm230EotdUnmwWgiMj2ddzMDw=="
+    },
+    {
+        "name": "szerver_Zsuzsa",
+        "publicKey": "5f3473241a3704c0e81cd9dfc11acd84912f908f526338165e9ce90d9e5faa10",
+        "signature": "u2Je5pcBkHpcwFTf9Te/jVzC52iNGEj4GHISHOzIFw6mAWDe37+8eQkvgEqgQX8TYgADI8h1hiNXwZ91VHkADw=="
+    },
+    {
+        "name": "szerver_Palko",
+        "publicKey": "f5d51692cb9bc26a960969fbc380714e24cd803de3339d4e21d11719d4bc8f22",
+        "signature": "eRJwJeoAU9pi3nvODrmxFNyEQkbVH2rs7Gm0BisHmvZl4ghYiC2p88/3uAho01gu4uhqsInCThCo+ed6pYnLBw=="
+    },
+    {
+        "name": "szerver_Tunde",
+        "publicKey": "5214a2efc956878e803dcb374216bee558e36361909262b05e5d74b153998cf1",
+        "signature": "M7wEDTLPCz0OUzkaTMuRsmwRpTLCi285jtAmcxZpwnomG0/j6ir4kDp2kKOpP62B5DleX8XD65iyVairqSu3Cg=="
+    },
+    {
+        "name": "szerver_Szabi",
+        "publicKey": "b07748d4f9e3294ce77ba4882315f8edc374fc6d764c065b7e7fae0927be885b",
+        "signature": "1AnKhoCJoPnKk6P9T8r2fXBuc4DJ0aSshy3isxAKj2kpEyvwDVfpfLu+LO1u9LNQnXIZPzYmBDFFxJBOYoIPAA=="
+    },
+    {
+        "name": "szerver_Timea",
+        "publicKey": "8c6c84b36ba98c775974e8b6b805f514be72602774d66f30ad423a31f4825138",
+        "signature": "Fp1SETj+mD3Nk/iNzzsdus03AI3JUFZksYsk4+YFtM3klBDgi+3H0f0J7W7rr4FrEwB3vrawkSo6X+e6Qp/NAQ=="
+    },
+    {
+        "name": "szerver_Isti",
+        "publicKey": "c33a20d70112b2056d06757600fff7e4b2070a54956c6e43b12ac3b0fb67c994",
+        "signature": "/xN1V/usvYaHqYhn6BnTjtn+XyMKyNVp93udmmKYEdDBq9Rd7zebdWo16jj6zdHwVQ93x1V0kfxo4nIr4d6DAg=="
+    },
+    {
+        "name": "szerver_Zsolti",
+        "publicKey": "fadc2b3a0ced2fe216db84c1ac089cca191ef145c4b962488e5aa04d76e24042",
+        "signature": "X8Ng1YQirSj2150fRS1/yvnmLr2jUpTpCL8J4/XlXCTR6dx/GkYH+Fe04Lbst4aahsqzFU+nNCPQrFeXVkuQAA=="
+    },
+    {
+        "name": "szerver_Feri",
+        "publicKey": "4ecd30468b3ee120a47301b021fadfd13f27e71139295cf46bb0767cf74cede9",
+        "signature": "JCMFKd6E5ZIyd+35KSxux8tODKwv9i49dx6uD5QiHr/PbsIXC+8wV5RFnR3t90cxKw1SrHRPoLMKuYffseezCw=="
+    },
+    {
+        "name": "szerver_Mari",
+        "publicKey": "568869c4fec57d87f9503ba5c6cceb3416d8826c46e0bd616e2cb584f90d7b14",
+        "signature": "B9odGIvPIV2QDOI0fzesHgadvi8TjHXb+NOoKmeYKGj4h68eX0yJYk2a5v/W79jBi2uF+DF/BTBggfmEhhCfAQ=="
+    },
+    {
+        "name": "szerver_Kati",
+        "publicKey": "39ed06d9cf73336eaaabfc25c9b1c70507607897db6762f90b26732db8728e7a",
+        "signature": "j+b3nbHVmQawu9o5eZ/nP3JWPtmA1MJZN+sspd3lI2o8sfEpVzAQHf5Z/ymlK3C1OIap35P8RN1g9eMK3vqiBA=="
+    },
+    {
+        "name": "szerver_Zsuzsa",
+        "publicKey": "2f7d41cc78e1ebb17bdad947352c32393b708d1577c762641b741cd5c9c2bf50",
+        "signature": "1vTcKCzje+BhMe4k2KYcv4gu4O7LI5Rh4K8ooVPRA5+OEaSChpzH71DXb9emF6EKfzsRUgCglShHGZrmZNuHCQ=="
+    },
+    {
+        "name": "szerver_Andi",
+        "publicKey": "305a03d03cd28c35af59bbd0d60de8a8711e5a4fec15bb463812b7511c476a22",
+        "signature": "QuZX+0YcRIGL5Nat4xwzNXnedfspzOvxvFj18MiO4GGTmQCMIMIrqDVRqszST46+TonWUISAeAW7GcLLBmmdBg=="
+    },
+    {
+        "name": "szerver_Arpi",
+        "publicKey": "328973c4600217169e6b669628a4d1f1c1654ce4132320f3e7866b959d9b35ec",
+        "signature": "DbwwWnfBVlehATLfr5d/0akt6KcDqFBc5I0cSThD3i8LOYS+8XNQ80HsPrH6ASAH8arqsRd5q04aKF8KJJ6/Bg=="
+    },
+    {
+        "name": "szerver_Zoli",
+        "publicKey": "53fc5afd1c129123dd24b574c078961a1e9755dcaa23b940184c2f82fb960d67",
+        "signature": "4Zqj+CA5ZoPH3kiN28zoKJvV7F8owZIpq1MmOiQKsiTVlXw6FJmk/Yb4jdLxCpfKMR9bjV0EYTyWzo92RfpSBA=="
+    },
+    {
+        "name": "szerver_Peti",
+        "publicKey": "29a5dc60e3ab2d250dad697b793e165fe5d85f301f6d4c0e1ada11ff2be444b9",
+        "signature": "6C+7nJ9A7MyJryI1tA4BKE6I4FsDa3KtsHybNnTgFBPsUIcMufF7GHSQpkqQkl7V+pQLg9sphnCpx447Rh0mAg=="
+    },
+    {
+        "name": "szerver_Pali",
+        "publicKey": "ff12e1c27c1974e8c360db1021df675dff46c25cc3cf678c3cce320ad3f897d9",
+        "signature": "93Y6G+ncxlD1iCXSUAm2qW7QIyUgA6t1HiPSI8g0R+VYfvGFrCX3HbY5xQcE0FFHlVnRsOCROt1ia5Qjd4ZACQ=="
+    },
+    {
+        "name": "szerver_Teri",
+        "publicKey": "07f9167837a908fad2d4bbcba837459e6699fcfb546e9a478efb85b28c4257fd",
+        "signature": "RHMCkRVwPjT+VOyVBVHJrY71RfYOasjuQaFDDpeos4VEKW0LDdbKTJ6x5LBMRWxslrNNe/VCflFLTcJIHFwIAw=="
+    },
+    {
+        "name": "szerver_Ati",
+        "publicKey": "f88c88346262534f97fae5ad1823d042668bd9f8549de489c66bb062c4e05a20",
+        "signature": "pNLMWML/AvYIl/rarB8rgkoGxqJE6Hm6PwOxIDXD78cQHrwf/U0MMEBaBSp+KNcFDa+ds8tik5SsmkBVwxHlBA=="
+    }
+]

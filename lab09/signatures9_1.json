@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Borika",
+        "signature": "8a93c63056d18bccc821448997969310869b28c7558715881d6c491dd783047217cacef88fbe09095f8441a5e674c701c32fef4920aadb2d8560e5ebfc488d02"
+    },
+    {
+        "name": "Marika",
+        "signature": "45ff494bfba16804d4600ed014c7e07a3f577be6e9f31ae448172689b4ef466767e6b3b60103a2bf096db80bad34f741dc33019177758625d9b57389aa65c006"
+    },
+    {
+        "name": "Zsuzsa",
+        "signature": "a53225d2f335f2dd139d910870cb13ee14962c2b855a99280b6055f8ec8b540ef8ce972ba8bef3803be7b177ba5cad38a62fc780b99c83f9079beca643c7500c"
+    },
+    {
+        "name": "Palko",
+        "signature": "7f82c17dd9e65c9a37055119d1b12da68d59376976d4fc6f65aa4fdb26aba525bcb91f821d89d9880d55363646419ada1e4a9e06262ff0e08b43e4e5333ceb0c"
+    },
+    {
+        "name": "Tunde",
+        "signature": "01da46bf1f9b7bd727209560eb38d2421faf400fc0f2276bb8e6bb5de9bef79cd75b9cc48659681debed3b47b3b0d46f859ad0de7773b0ff73b42cc865488d0d"
+    },
+    {
+        "name": "Szabi",
+        "signature": "b24c87c451258b332291d869c6409d1053cea59afffd2a8d0490a123f171576bc76dbe31d545fcc5196c1ff75e08e8bcfabc2b8570c8cad772afababd0227004"
+    },
+    {
+        "name": "Timea",
+        "signature": "2a6d2254161ed20c44a5d73db752b1ffa33b7c602e65d641474764f7330fb8f1911ede598c702f596fb65ec163cb7d8cec0a5488bd30a52837e6427a78a0ad07"
+    },
+    {
+        "name": "Isti",
+        "signature": "a95c61539621efa99d9ca65ad5e2ba97bc17cc3c0dd723a9ca647346938bfa968d06b7084b510a8024f852f6a2828a9b53290d72bd39fe8d7d0934154ebee709"
+    },
+    {
+        "name": "Zsolti",
+        "signature": "0b3a79c7e939dd370b93b8e922319f6ebb309904d062b9f79a2d08b0b1d7e02a042588222b71bb576b8383595cf1b4a215961c630681264f60b388a7354c2307"
+    },
+    {
+        "name": "Feri",
+        "signature": "d24afc03daaaaabb0cb6139b917e95ad2c259ed53566c336e339056b9e18ed04d038f8f70fcd7fc50fcbd9668162c1aa14b28d6e3e15217004257ffc8639ab08"
+    },
+    {
+        "name": "Mari",
+        "signature": "4da626c41902e00b371ae1bd3610f23ce7d1ff497ab1352aa2bebe05920b5f9df424c5d7a09043ecb38689e2e5462d24f2fffeaf7722a3626f3e46b31b80b503"
+    },
+    {
+        "name": "Kati",
+        "signature": "c5d5aa70844d3ba883aa384d2fb33cb8baf1bc1962079f15335e8eda084167c6cc1442069056ae54732d75f0c7eb6f6f5b917c0d62a64f1702a0c8dc9b12a808"
+    },
+    {
+        "name": "Zsuzsa",
+        "signature": "64fe304866086c29822f5cdf1b99f9c230e0abcf799dac2c11d7d2901b45a798ae3fc9f0dcf9ff63c9373c74ddfe571315004842e409ec10b1bd54e88241f707"
+    },
+    {
+        "name": "Andi",
+        "signature": "5e4642cee5bf0640cfe7a246deb3ac42cfdf94d7a4a9b16f01525c62373956af34257831522c49d666818a5bcc0516e1a90ef5c53d13f08acffafdaae9d0370b"
+    },
+    {
+        "name": "Arpi",
+        "signature": "25d785a92a274d58346eb7d9f26e13e274c5a5bd228879b46759d7e6aea49d622798198d28386396d9aaaf9cbb4b09d6f14a9d6e010aa11f02432ee9bdfdc505"
+    },
+    {
+        "name": "Zoli",
+        "signature": "89aeb39dba1edf2ae2ec5203c328aa166ef414631ba931520e77882e4d855b9b79e791df3a0101342193412ef7aac4a0588f1c6a0578a763240968d84e18690c"
+    },
+    {
+        "name": "Peti",
+        "signature": "eb73a305d8273c0018b9b93de6755b53a73b5d13948a79cf264db9ce45d54c540191c50dfedd3183f73cda013351c936f4b168ef5c4b9aa0481a9fce090c4a0d"
+    },
+    {
+        "name": "Pali",
+        "signature": "336014818378f9f0e94acbcbbda13a0bd60ed513e902a7526c121b2640548ac58b9f1a48990a37d90392747d35d2a34db27ace21c895be92df326906bc810502"
+    },
+    {
+        "name": "Teri",
+        "signature": "d14457875619dcd2c460089d316d8bbd3a33f240b21afde953872ecd75fdd9386d4124c14d8fea1089e200ff10cdfbab689f30a4325889d54dfdb7bdc514a007"
+    },
+    {
+        "name": "Ati",
+        "signature": "dc3b568591e9a45c82ba021d8131a41d7b70ff964fa4f27c89646b67902ae62d851959120caa0800d1edab438eced87c7b549a2834394e572e54e83089a5d507"
+    }
+]
